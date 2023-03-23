@@ -4,7 +4,7 @@
 2D全方位型シューティングゲームです
 
 
-Uploading OnlyWonder_demo.mp4…
+Uploading OnlyWonder_demo.mp4
 
 
  
