@@ -2,6 +2,11 @@
 
 タイトル：「OnlyWonder」
 2D全方位型シューティングゲームです
+
+
+Uploading OnlyWonder_demo ‐ Clipchampで作成.mp4…
+
+
  
 # 特徴
  
