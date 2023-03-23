@@ -3,6 +3,10 @@
 タイトル：「OnlyWonder」
 2D全方位型シューティングゲームです
 
+
+https://user-images.githubusercontent.com/118162965/227120823-0dedb54f-00f9-4f39-aa07-64bc3b85227a.mp4
+
+
  
 # 特徴
  
